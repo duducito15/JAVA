@@ -53,6 +53,5 @@ public class Variables {
         String cadenaCaracteres = "Eduardo Chavez Vasquez";
         String otraCadena = "";
         System.out.println("Esto es una cadena de caracteres: "+ cadenaCaracteres);
-
      }
 }
