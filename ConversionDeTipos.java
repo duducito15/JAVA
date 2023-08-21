@@ -17,6 +17,23 @@ public static void main(String[] args) {
      * 
      * 2. Realiza un conversor de euros a soles. La cantidad de euros que se va a covertir
      * deberá ser almacenada en una variable.
+     * 
+     * float soles;
+     * int euros;
+     * 
+     * euros = 10;
+     * soles = euros * 4.05;
+     * System.out.println("El resultado en soles es : "+ soles);
+     * 
+     * 
+     * 
+     * 
      */
+    float soles;
+    int euros;
+    
+    euros = 1;
+    soles = (float) euros * 4.05f;
+    System.out.println("El resultado en soles es : "+ soles);
 }    
 }
