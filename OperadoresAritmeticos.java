@@ -12,7 +12,7 @@ public class OperadoresAritmeticos {
          * decremento -> -- (el valor de la variable de 1 en 1)
          */
         int numero = 127;
-
+        
         System.out.println("Suma: "+ (numero + 5));
         System.out.println("Resta: "+ (numero - 5));
         System.out.println("Multiplicación: "+ (numero * 5));
