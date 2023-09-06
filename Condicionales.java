@@ -83,5 +83,16 @@ public class Condicionales {
         System.out.println("Lo siento, ese no es el numero que estoy pensando");
       }
 
+      /*
+       * Ejercicio 1
+       * Escribe un programa que pida por teclado un dia de la semana y que diga que asignatura toca 
+       * a primera hora de ese dia
+       * 
+       * Ejercicio 2
+       * Realiza un programa que pida una hora por teclado y que muestre luego buenos dias,
+       * buenas trades o buenas noches según la hora.
+       */
+
+
     }
 }
