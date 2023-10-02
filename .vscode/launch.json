@@ -1,0 +1,146 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BucleWhile",
+            "request": "launch",
+            "mainClass": "BucleWhile",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "Bucles",
+            "request": "launch",
+            "mainClass": "Bucles",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "CaracteresEspeciales",
+            "request": "launch",
+            "mainClass": "CaracteresEspeciales",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "Colores",
+            "request": "launch",
+            "mainClass": "Colores",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales",
+            "request": "launch",
+            "mainClass": "Condicionales",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "ConversionDeTipos",
+            "request": "launch",
+            "mainClass": "ConversionDeTipos",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "EjerciciosBucles",
+            "request": "launch",
+            "mainClass": "EjerciciosBucles",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "LecturaDatos",
+            "request": "launch",
+            "mainClass": "LecturaDatos",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "LeeNumeros",
+            "request": "launch",
+            "mainClass": "LeeNumeros",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "LeeScanner",
+            "request": "launch",
+            "mainClass": "LeeScanner",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "OperadoresAritmeticos",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "SalidaFormateada",
+            "request": "launch",
+            "mainClass": "SalidaFormateada",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "SentenciaSwitch",
+            "request": "launch",
+            "mainClass": "SentenciaSwitch",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "JAVA_fefefd52"
+        }
+    ]
+}
