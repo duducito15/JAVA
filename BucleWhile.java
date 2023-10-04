@@ -8,12 +8,12 @@ public class BucleWhile {
         * }
         */
 
-        /*int i = 1;
+        int i = 1;
 
         while (i < 11) {
             System.out.println(i);
             i++;
-        }*/
+        }
         // Ej.2.Programa que cuenta y suma los numeros que se van introduciendo
         // por teclado, el programa termina cuando se introduce un numero
         // negativo
