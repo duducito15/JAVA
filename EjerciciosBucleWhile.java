@@ -22,10 +22,8 @@ public class EjerciciosBucleWhile {
                 }
             }
         }
-
         System.out.println("Ha introducido " + (cuentaNumero - 1) + " de elementos");
         System.out.println("La media de los impares es " + sumaImpar / numerosImpares);
         System.out.println("El mayor par es " + maximoPar);
-
     }
 }
