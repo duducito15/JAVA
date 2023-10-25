@@ -37,6 +37,15 @@ public class NumerosAleatorios {
  * (ambos incluidos) separados por espacios. Muestre tambien el Maximo, 
  * el minimo y la media.
  * 
+ * int numero
+ * int suma
+ * int min
+ * int max
+ * 
+ * generan el nuero aleatorio
+ * sumarlo
+ * luego ese nuemro evaluan si es mayor o menor
+ * 
  * 
  */
     }
