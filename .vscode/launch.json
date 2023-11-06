@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JAVA_fefefd52"
+        },
+        {
+            "type": "java",
             "name": "NumerosAleatorios",
             "request": "launch",
             "mainClass": "NumerosAleatorios",
